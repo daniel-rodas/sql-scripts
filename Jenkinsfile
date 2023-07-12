@@ -15,4 +15,8 @@ pipeline {
       }
     }
   }
+
+  def findimundi(String body, String subject) {
+    echo 'bienbenido'
+  }
 }
